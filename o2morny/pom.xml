@@ -46,8 +46,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http:/
 	    <groupId>org.testng</groupId>
 	    <artifactId>testng</artifactId>
 	    <version>6.14.3</version>
-	    <scope>test</scope>
-  	</dependency>
+	    <scope>compile</scope>
+    </dependency>
 
 <!-- https://mvnrepository.com/artifact/tech.grasshopper/extentreports-cucumber6-adapter -->
 <dependency>
